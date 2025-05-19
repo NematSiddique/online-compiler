@@ -24,7 +24,7 @@ An in-browser code editor built with React and Vite. Write, edit, and execute co
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/online-code-compiler.git
+git clone https://github.com/NematSiddique/online-compiler.git
 cd online-code-compiler
 npm install
 ```
